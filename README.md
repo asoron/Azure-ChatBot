@@ -31,7 +31,7 @@ This project is a Firebase-based web application that leverages Azure API to pro
 
 1. **Clone the Repository:**
    \`\`\`bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/asoron/Azure-ChatBot.git
    cd your-repo-name
    \`\`\`
 
